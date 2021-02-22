@@ -1,0 +1,9 @@
+name: TrackerPlugin
+version: 1.1.9
+main: com.croissantplugins.tracker.TrackerPlugin
+description: This plugin allows for players to track on another with compasses.
+prefix: Tracker
+api-version: 1.16
+commands:
+    track:
+      description: This command allows for a player to track another player.
